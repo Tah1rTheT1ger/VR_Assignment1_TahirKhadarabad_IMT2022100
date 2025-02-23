@@ -122,7 +122,7 @@ Below is the final stitched panorama image:
 
 | Stitched Panorama |
 |---|
-| ![stitched_panorama](output_images/panorama/stitched_panorama.png) |
+| ![stitched_panorama](output_images/panorama/stitched_panorama.jpg) |
 
 ---
 
